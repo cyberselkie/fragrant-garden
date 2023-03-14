@@ -1,5 +1,5 @@
 ---
-title: polyestercloud
+title: Home
 summary: >-
   homepage & gallery
 ---
