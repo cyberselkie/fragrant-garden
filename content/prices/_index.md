@@ -10,11 +10,11 @@ platen:
 
 *Will change based on individual project needs and desired style - these are the **minimum** prices. Two revisions are included.*
 
-**Cover:** $800-1000
+**Cover:** $1000
 
 **Illustration:** (*Inside the book*): $200
 
-**Spot Art:** $50-75
+**Spot Art:** $75
 
 **Map:** $200
 
