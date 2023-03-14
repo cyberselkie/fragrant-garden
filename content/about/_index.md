@@ -9,6 +9,7 @@ platen:
 I'm Charlotte Laskowski. I draw and I write sometimes, too. I could not live without creating.
 
 ## Links
+ - [email](mailto:laskowskichar@gmail.com)
  - [twitter](https://twitter.com/polyestercloud)
  - [itch.io](https://selkie.itch.io)
  - [leanpub](https://leanpub.com/u/selkie)
