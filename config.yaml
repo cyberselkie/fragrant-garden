@@ -8,10 +8,6 @@ module:
     - path: github.com/platenio/platen/modules/platen
 
 menu:
-  before:
-    - name: Blog
-      url: /posts
-      weight: 10
   after:
     - name: Platen Documentation
       url: https://platen.io/
@@ -19,3 +15,15 @@ menu:
 
 params:
   description: charlotte's gallery
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: true

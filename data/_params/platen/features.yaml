@@ -1,0 +1,4 @@
+shoelace:
+  always_load: true
+alpine:
+  always_load: true
