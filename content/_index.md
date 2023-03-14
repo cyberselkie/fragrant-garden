@@ -139,7 +139,7 @@ summary: >-
 
 <style>
   sl-carousel {
-    min-height: 900px;
+    min-height: 800px;
 }
 
 @media only screen and (max-width: 600px) {
