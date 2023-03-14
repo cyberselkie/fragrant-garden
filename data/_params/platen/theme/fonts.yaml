@@ -1,1 +1,15 @@
 # yaml-language-server: $schema=https://platen.io/modules/platen/config/site/theme/config/schema.json#/properties/fonts
+
+settings:
+  body: 
+    family: "'BN Cringe Sans Regular', sans-serif"
+    selector: body
+  headings:
+    family: "'BN Cringe Sans Black', sans-serif"
+    selector: h1, h2, h3, h4, h5, h6
+  code:
+    family: "'Roboto', mono"
+    selector: code
+
+styles:
+    - bncringesans

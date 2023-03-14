@@ -3,7 +3,7 @@
   "frontMatter.extends": [
     "https://platen.io/frontmatter/platen.json"
   ],
-  "frontMatter.site.baseURL": "https://fragrant-garden.netlify.app",
+  "frontMatter.site.baseURL": "https://fragrant.garden",
   "frontMatter.taxonomy.tags": [],
   "frontMatter.taxonomy.categories": []
 }

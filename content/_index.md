@@ -1,5 +1,5 @@
 ---
-title: Home
+title: polyestercloud
 summary: >-
   homepage & gallery
 ---
@@ -8,7 +8,7 @@ summary: >-
 <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.3.0/dist/shoelace-autoloader.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
-<sl-carousel class="carousel-thumbnails" navigation loop style="height: 1200px; max-width: 800px;">
+<sl-carousel class="carousel-thumbnails" navigation loop>
   <sl-carousel-item>
     <img
       alt="A woman with luna moth wings holding a sword."
@@ -105,6 +105,12 @@ summary: >-
       src="images/lux.png"
     />
   </sl-carousel-item>
+  <sl-carousel-item>
+    <img
+      alt="A 5 x 5 hexmap."
+      src="images/PRETTYFORCE MAP.png"
+    />
+  </sl-carousel-item>
 </sl-carousel>
 
 <div class="thumbnails">
@@ -125,10 +131,22 @@ summary: >-
     <img alt="Thumbnail by 14" class="thumbnails__image" src="images/florian.png" />
     <img alt="Thumbnail by 15" class="thumbnails__image" src="images/fashion.png" />
     <img alt="Thumbnail by 16" class="thumbnails__image" src="images/lux.png" />
+    <img alt="Thumbnail by 17"
+    class="thumbnails__image"
+    src="images/PRETTYFORCE MAP.png">
   </div>
 </div>
 
 <style>
+  sl-carousel {
+    min-height: 900px;
+}
+
+@media only screen and (max-width: 600px) {
+    sl-carousel {
+    min-height: 600px;
+    }
+  }
   .carousel-thumbnails {
     --slide-aspect-ratio: 3 / 2;
   }

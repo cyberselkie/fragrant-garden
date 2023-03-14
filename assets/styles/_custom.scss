@@ -1,0 +1,15 @@
+:root {
+    --body-background: white;
+    --body-font-color: blue;
+    --color-link: blue;
+    --color-visited-link: blue;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --body-background: white;
+        --body-font-color: blue;
+        --color-link: blue;
+        --color-visited-link: blue;
+    }
+}

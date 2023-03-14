@@ -1,17 +1,12 @@
 # yaml-language-server: $schema=https://platen.io/schemas/config/schema.json
 # Update to your own settings for URL/title
-baseURL: https://fragrant-garden.netlify.app/
+baseURL: https://fragrant.garden/
 title:   Fragrant Garden
 
 module:
   imports:
     - path: github.com/platenio/platen/modules/platen
 
-menu:
-  after:
-    - name: Platen Documentation
-      url: https://platen.io/
-      weight: 10
 
 params:
   description: charlotte's gallery
