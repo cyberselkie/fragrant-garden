@@ -12,6 +12,7 @@ I'm Charlotte Laskowski. I draw and I write sometimes, too. I could not live wit
  - [twitter](https://twitter.com/polyestercloud)
  - [itch.io](https://selkie.itch.io)
  - [leanpub](https://leanpub.com/u/selkie)
+ - [substack](https://papercult.substack.com/)
  - [discord](https://discord.gg/jWaM5dNwAD)
  - [paper cult](https://papercult.club)
 ## Work
