@@ -26,11 +26,11 @@ platen:
 **Background:** +50%, or included for cover.
 
 ### Additional Fees
-**Marketing Use:**: +$100 ea
+**Marketing Use:** +$100 ea
 
-**Revisions:**: +$50 ea
+**Revisions:** +$50 ea
 
-**Rush Fee:**: Double, with 2 week minimum turnaround.
+**Rush Fee:** Double, with 2 week minimum turnaround.
 
 ## How to Commission Me
 ```details
