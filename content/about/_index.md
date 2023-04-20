@@ -15,7 +15,7 @@ I'm Charlotte Laskowski. I draw and I write sometimes, too. I could not live wit
  - [leanpub](https://leanpub.com/u/selkie)
  - [substack](https://papercult.substack.com/)
  - [discord](https://discord.gg/jWaM5dNwAD)
- - [paper cult](https://papercult.club)
+
 ## Work
  - [DAISY CHAINSAW](https://selkie.itch.io/daisy-chainsaw)
  - [Pretty Force! Battle Transformation](https://selkie.itch.io/pretty-force-battle-transformation)
