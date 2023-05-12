@@ -10,7 +10,7 @@ I'm Charlotte Laskowski. I draw and I write sometimes, too. I could not live wit
 
 ## Links
  - [email](mailto:laskowskichar@gmail.com)
- - [twitter](https://twitter.com/polyestercloud)
+ - [twitter](https://twitter.com/basilisika)
  - [itch.io](https://selkie.itch.io)
  - [leanpub](https://leanpub.com/u/selkie)
  - [substack](https://papercult.substack.com/)
