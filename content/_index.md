@@ -114,25 +114,25 @@ summary: >-
   <sl-carousel-item>
     <img
       alt="characters coming out of a vr headset."
-      src="images\dd1_2 jpg.jpg"
+      src="images/dd1_2 jpg.jpg"
     />
   </sl-carousel-item>
   <sl-carousel-item>
     <img
       alt="woman getting eaten by crows."
-      src="images\songbirds 3e cover jpg.jpg"
+      src="images/songbirds 3e cover jpg.jpg"
     />
   </sl-carousel-item>
   <sl-carousel-item>
     <img
       alt="cowboy on a motorcycle, with a bazooka."
-      src="images\cowboy twt.jpg"
+      src="images/cowboy twt.jpg"
     />
   </sl-carousel-item>
   <sl-carousel-item>
     <img
       alt="cowboy on a motorcycle, with a pistol."
-      src="images\cowboy 2 twt.jpg"
+      src="images/cowboy 2 twt.jpg"
     />
   </sl-carousel-item>
 </sl-carousel>
@@ -155,9 +155,11 @@ summary: >-
     <img alt="Thumbnail by 14" class="thumbnails__image" src="images/florian.jpg" />
     <img alt="Thumbnail by 15" class="thumbnails__image" src="images/fashion.jpg" />
     <img alt="Thumbnail by 16" class="thumbnails__image" src="images/lux.jpg" />
-    <img alt="Thumbnail by 17"
-    class="thumbnails__image"
-    src="images/PRETTYFORCE MAP.jpg">
+    <img alt="Thumbnail by 17" class="thumbnails__image" src="images/PRETTYFORCE MAP.jpg" />
+    <img alt="Thumbnail by 18" class="thumbnails__image" src="images/dd1_2 jpg.jpg" />
+    <img alt="Thumbnail by 19" class="thumbnails__image" src="images/songbirds 3e cover jpg.jpg" />
+    <img alt="Thumbnail by 20" class="thumbnails__image" src="images/cowboy twt.jpg" />
+    <img alt="Thumbnail by 21" class="thumbnails__image" src="images/cowboy 2 twt.jpg" />
   </div>
 </div>
 
