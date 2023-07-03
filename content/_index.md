@@ -111,6 +111,30 @@ summary: >-
       src="images/PRETTYFORCE MAP.jpg"
     />
   </sl-carousel-item>
+  <sl-carousel-item>
+    <img
+      alt="characters coming out of a vr headset."
+      src="images\dd1_2 jpg.jpg"
+    />
+  </sl-carousel-item>
+  <sl-carousel-item>
+    <img
+      alt="woman getting eaten by crows."
+      src="images\songbirds 3e cover jpg.jpg"
+    />
+  </sl-carousel-item>
+  <sl-carousel-item>
+    <img
+      alt="cowboy on a motorcycle, with a bazooka."
+      src="images\cowboy twt.jpg"
+    />
+  </sl-carousel-item>
+  <sl-carousel-item>
+    <img
+      alt="cowboy on a motorcycle, with a pistol."
+      src="images\cowboy 2 twt.jpg"
+    />
+  </sl-carousel-item>
 </sl-carousel>
 
 <div class="thumbnails">
