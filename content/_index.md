@@ -136,7 +136,6 @@ summary: >-
 <div class="thumbnails">
   <div class="thumbnails__scroller">
     <img alt="Thumbnail by 1" class="thumbnails__image active" src="images/lunamoth2.jpg" />
-    <img alt="Thumbnail by 2" class="thumbnails__image" src="images/hakila.jpg" />
     <img alt="Thumbnail by 3" class="thumbnails__image" src="images/dragonfly.jpg" />
     <img alt="Thumbnail by 4" class="thumbnails__image" src="images/luna moth.jpg" />
     <img alt="Thumbnail by 5" class="thumbnails__image" src="images/dccover.jpg" />
