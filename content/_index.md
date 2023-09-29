@@ -113,7 +113,7 @@ summary: >-
       src="images/cowboy 2 twt.jpg"
     />
   </sl-carousel-item>
-    <sl-carousel-item>
+  <sl-carousel-item>
     <img
       alt="dragon woman holding a censer over a background of loose magical papers."
       src="images/mirza.jpg"
