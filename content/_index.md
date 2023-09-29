@@ -153,9 +153,9 @@ summary: >-
     <img alt="Thumbnail by 19" class="thumbnails__image" src="images/songbirds 3e cover jpg.jpg" />
     <img alt="Thumbnail by 20" class="thumbnails__image" src="images/cowboy twt.jpg" />
     <img alt="Thumbnail by 21" class="thumbnails__image" src="images/cowboy 2 twt.jpg" />
-    <img alt="Thumbnail by 21" class="thumbnails__image" src="images/mirza.jpg" />
-    <img alt="Thumbnail by 21" class="thumbnails__image" src="images/necromancer.jpg" />
-    <img alt="Thumbnail by 21" class="thumbnails__image" src="images/knight.jpg" />
+    <img alt="Thumbnail by 22" class="thumbnails__image" src="images/mirza.jpg" />
+    <img alt="Thumbnail by 23" class="thumbnails__image" src="images/necromancer.jpg" />
+    <img alt="Thumbnail by 24" class="thumbnails__image" src="images/knight.jpg" />
   </div>
 </div>
 
