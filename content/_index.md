@@ -17,12 +17,6 @@ summary: >-
   </sl-carousel-item>
   <sl-carousel-item>
     <img
-      alt="A woman with four wings and four arms, holding two swords."
-      src="images/hakila.jpg"
-    />
-  </sl-carousel-item>
-  <sl-carousel-item>
-    <img
       alt="A man with long hair, covered in dragonflies."
       src="images/dragonfly.jpg"
     />
@@ -59,22 +53,11 @@ summary: >-
   </sl-carousel-item>
   <sl-carousel-item>
     <img
-      alt="A woman wearing a VR headset with a character coming out of her head and fighting slimes monsters."
-      src="images/screen edits dd1.jpg"
-    />
-  </sl-carousel-item>
-  <sl-carousel-item>
-    <img
       alt="A man shooting an angel in the head surrounded by pastel clouds."
       src="images/the shot clouds v2.jpg"
     />
   </sl-carousel-item>
-  <sl-carousel-item>
-    <img
-      alt="An angel."
-      src="images/monochrome angel 2 darker.jpg"
-    />
-  </sl-carousel-item>
+
   <sl-carousel-item>
     <img
       alt="A fairy with a sword rendered in a pixelized, green retro screen style."
@@ -111,12 +94,7 @@ summary: >-
       src="images/PRETTYFORCE MAP.jpg"
     />
   </sl-carousel-item>
-  <sl-carousel-item>
-    <img
-      alt="characters coming out of a vr headset."
-      src="images/dd1_2 jpg.jpg"
-    />
-  </sl-carousel-item>
+
   <sl-carousel-item>
     <img
       alt="woman getting eaten by crows."
@@ -135,6 +113,24 @@ summary: >-
       src="images/cowboy 2 twt.jpg"
     />
   </sl-carousel-item>
+    <sl-carousel-item>
+    <img
+      alt="dragon woman holding a censer over a background of loose magical papers."
+      src="images/mirza.jpg"
+    />
+  </sl-carousel-item>
+  <sl-carousel-item>
+    <img
+      alt="necromancer woman, naked, holding a skull."
+      src="images/necromancer.jpg"
+    />
+  </sl-carousel-item>
+  <sl-carousel-item>
+    <img
+      alt="a knight in a red embroidered cloak."
+      src="images/knight.jpg"
+    />
+  </sl-carousel-item>
 </sl-carousel>
 
 <div class="thumbnails">
@@ -147,19 +143,19 @@ summary: >-
     <img alt="Thumbnail by 6" class="thumbnails__image" src="images/crane.jpg" />
     <img alt="Thumbnail by 7" class="thumbnails__image" src="images/prettyforce cover.jpg" />
     <img alt="Thumbnail by 8" class="thumbnails__image" src="images/pseudoangel.jpg" />
-    <img alt="Thumbnail by 9" class="thumbnails__image" src="images/screen edits dd1.jpg" />
     <img alt="Thumbnail by 10" class="thumbnails__image" src="images/the shot clouds v2.jpg" />
-    <img alt="Thumbnail by 11" class="thumbnails__image" src="images/monochrome angel 2 darker.jpg" />
     <img alt="Thumbnail by 12" class="thumbnails__image" src="images/THING2.jpg" />
     <img alt="Thumbnail by 13" class="thumbnails__image" src="images/western.jpg" />
     <img alt="Thumbnail by 14" class="thumbnails__image" src="images/florian.jpg" />
     <img alt="Thumbnail by 15" class="thumbnails__image" src="images/fashion.jpg" />
     <img alt="Thumbnail by 16" class="thumbnails__image" src="images/lux.jpg" />
     <img alt="Thumbnail by 17" class="thumbnails__image" src="images/PRETTYFORCE MAP.jpg" />
-    <img alt="Thumbnail by 18" class="thumbnails__image" src="images/dd1_2 jpg.jpg" />
     <img alt="Thumbnail by 19" class="thumbnails__image" src="images/songbirds 3e cover jpg.jpg" />
     <img alt="Thumbnail by 20" class="thumbnails__image" src="images/cowboy twt.jpg" />
     <img alt="Thumbnail by 21" class="thumbnails__image" src="images/cowboy 2 twt.jpg" />
+    <img alt="Thumbnail by 21" class="thumbnails__image" src="images/mirza.jpg" />
+    <img alt="Thumbnail by 21" class="thumbnails__image" src="images/necromancer.jpg" />
+    <img alt="Thumbnail by 21" class="thumbnails__image" src="images/knight.jpg" />
   </div>
 </div>
 
